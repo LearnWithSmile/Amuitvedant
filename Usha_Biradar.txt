@@ -1,0 +1,56 @@
+Usha Biradar
+2:39 PM
+https://samrudhienviropune.com/
+Usha Biradar
+2:57 PM
+Accept input from user and factiorial number.
+
+
+f= (input("Enter a number"));
+ a=1;
+
+if(f=0 and f=1):
+   print("factorial of 0 and 1 is ", a)
+elif f>1:
+     for i in range(1, f-1):
+         r=i*f
+      print (r)
+else:
+       print("not a factorial number")
+      
+                                               // 5*4*3*2*1
+Usha Biradar
+2:59 PM
+Dear Sir/Madam,
+
+My name is Usha, and I am excited to apply for the Python  Developer Intern position at your company.
+
+With 2 years of experience as a Front-End Developer, I have designed and developed responsive, user-friendly websites using HTML, CSS, JavaScript, WordPress, and Bootstrap. My skills align well with the requirements of this role, and I am currently expanding my expertise by learning React JS, Python, and SQL to transition into full-stack development.
+
+I am passionate about crea
+Please find my resume attached for your review. I would welcome the opportunity to discuss how I can contribute to your company’s success.
+
+Thank you for your time and consideration.
+
+Best regards,
+Usha
+
+8197624957
+
+
+
+Usha Biradar
+3:14 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="background-image: ;">
+
+    </div>
+</body>
+</html>
